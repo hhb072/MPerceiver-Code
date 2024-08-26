@@ -1,0 +1,1 @@
+Pre-trained checkpoints will be released at this [link](https://github.com/shallowdream204/MPerceiver/releases).
